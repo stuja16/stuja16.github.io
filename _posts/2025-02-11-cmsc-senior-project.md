@@ -4,21 +4,29 @@ last_modified_at: 2025-02-11T13:03:15-06:00
 categories:
   - Blog
   - Portfolio
+tags:
+  - project
 ---
 
 This post is a summary of my work for my CS Senior Project.
 I created a mobile application meant to help users find nearby spaces to engage in outdoor activities like hiking, biking, snowshoeing, and more.
 
-## Planning and Outlining
+## Planning
+
+Before I could write any code, I had to create an outline of how I wanted to create my project and how it would be structured.
 
 ### Brainstorming
 
-Starting this project required an original idea, and I hoped to find something new and relevant to my life and my hobbies.
-One of the first things I focused on was my love of hiking and the outdoors, but I hated searching for hiking trails and trying to weed out the good ones from the bad because of how much time and effort it took.
-Although I considered many potential project ideas, this one continued to stick out to me so I went with it!
+Step one is finding an original idea.
+I hoped to find something new and relevant to my life and my hobbies, and I looked at many potential options for a new project.
+An easy subject was my love of hiking.
+I love being outside, but I hate searching for hiking trails and trying to weed out the good ones from the bad because it feels like it takes way too much time and effort.
 
 ### Final Idea
-My project idea was to create a mobile application that attempts to provide as up to date information on trails and their conditions as possible. It allows filtering and to search for different activities, along
+I set out to create a mobile application that provides up to date information on trails and their conditions in a user-friendly format to allow users to quickly find where to go, reducing the amount of prep-time required and thus increasing the amount of time actually spent on outdoor activities.
+
+One feature to facilitate this process is robust filtering for searching. Users can save filter presets to immediately remove locations that are completely incompatible without requiring manual input.
+
 
 ### Tech Stack
 
@@ -53,7 +61,7 @@ I found it from an official US governmental source:
 
 ### End-User Platforms
 
-Using React Native was important for my development because it allowed to me to create one codebase that **__can be deployed to both IOS and Android devices__**, allowing widespread availability across mobile devices.
+Using React Native was important for my development because it allowed to me to create one codebase that **_can be deployed to both IOS and Android devices_**, allowing widespread availability across mobile devices.
 Although I have no current plans to actually deploy this application, it is a nice feature to have and provided good practice with the framework.
 
 ### Geographical Map Integration
