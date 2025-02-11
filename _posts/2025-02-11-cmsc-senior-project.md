@@ -73,3 +73,7 @@ The app has full integration with geographical maps (Google for Android, Apple f
 
 Users are able to see the exact path of the trail through files of GPS coordinates that are stored for each trail in the database, making it easy to find and follow trails even when clear markings may be inconsistent.
 Users can also then use their maps application to get directions to the trailhead at the start of their trip.
+
+## Source Code
+
+All of my code for this project can be found on its [GitHub repository](https://github.com/stuja16/GetOutdoors).
