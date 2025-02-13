@@ -56,7 +56,7 @@ One of the biggest failures I identified in existing apps that were similar to m
 Thus, I hoped to get a more reliable source.
 
 I found it from an official US governmental source:
-**National Digital Trails Project:** The [USGS National Transportation Database](#https://www.usgs.gov/programs/national-geospatial-program/national-map) is continuing to build the nation-wide trails dataset alongside their datasets for other transport systems.
+**National Digital Trails Project:** The [USGS National Transportation Database](https://www.usgs.gov/programs/national-geospatial-program/national-map) is continuing to build the nation-wide trails dataset alongside their datasets for other transport systems.
 {: .notice--info}
 
 ### End-User Platforms
