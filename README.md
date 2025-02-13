@@ -1,3 +1,15 @@
+# Personal Notes
+
+## Running locally
+
+Running the server locally allows previewing up to date changes during development.
+
+1. Clone repository locally.
+2. Open command palette
+3. Navigate to local repository.
+4. Run the following command to start the server: `bundle exec jekyll serve`
+5. Navigate to specified hosting IP (e.g. https://127.0.0.1:4000/)
+
 # Minimal Mistakes remote theme starter
 
 Click [**Use this template**](https://github.com/mmistakes/mm-github-pages-starter/generate) button above for the quickest method of getting started with the [Minimal Mistakes Jekyll theme](https://github.com/mmistakes/minimal-mistakes).
