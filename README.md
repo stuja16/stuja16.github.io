@@ -8,7 +8,7 @@ Running the server locally allows previewing up to date changes during developme
 2. Open command palette
 3. Navigate to local repository.
 4. Run the following command to start the server: `bundle exec jekyll serve`
-5. Navigate to specified hosting IP (e.g. https://127.0.0.1:4000/)
+5. Navigate to specified hosting IP (e.g. http://127.0.0.1:4000/)
 
 ## Showing draft blog posts
 If you want to create draft posts that are visible in the development build, place them in a folder named `_drafts` and change the command listed in [Step 4](#running-locally) to the following: `bundle exec jekyll serve --drafts`
